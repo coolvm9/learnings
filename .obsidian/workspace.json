@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "datasets/Data Sets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Data Sets"
+            }
+          },
+          {
+            "id": "e45085a41293b525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "azure/Samples.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Samples"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,12 +177,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "564b88093c45359e",
+  "active": "e45085a41293b525",
   "lastOpenFiles": [
-    "README.md",
-    "create a link.md",
-    "Welcome.md",
+    "gcp/Code Samples.md",
+    "azure/Samples.md",
+    "gcp/Gradle.md",
+    "gcp/dataset.md",
+    "gcp/Authentication.md",
+    "gcp/DocAI.md",
+    "gcp/Generative AI.md",
+    "Samples.md",
+    "datasets/Data Sets.md",
+    "azure/Authentication.md",
     "azure/Azure.md",
+    "Welcome.md",
+    "README.md",
+    "rag",
+    "datasets",
+    "pdf parsing",
+    "huggingface",
+    "create a link.md",
     "Untitled.canvas",
     "docker",
     "doc understanding",
