@@ -62,9 +62,35 @@
               "icon": "lucide-file",
               "title": "RAG"
             }
+          },
+          {
+            "id": "8fca686a6dbe49a1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250217085252.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250217085252"
+            }
+          },
+          {
+            "id": "f03ab97b1db555bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorials.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tutorials"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -205,16 +231,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09b0e042e2ef3242",
+  "active": "f03ab97b1db555bd",
   "lastOpenFiles": [
-    "rag/Neo4J Learnings.md",
+    "Pasted image 20250217085252.png",
+    "Tutorials.md",
+    "Neo4j",
     "rag/RAG.md",
+    "rag/Neo4J Learnings.md",
     "rag/Knowledge Graph.md",
     "rag/KNowledge Graph1.md",
     "Pasted image 20250217091615.png",
     "Pasted image 20250217090120.png",
     "Pasted image 20250217085339.png",
-    "Pasted image 20250217085252.png",
     "Pasted image 20250217084947.png",
     "gcp/Which Authentication to use.md",
     "graphRAG",
@@ -245,7 +273,6 @@
     "Untitled.canvas",
     "docker",
     "doc understanding",
-    "azure",
-    "gcp"
+    "azure"
   ]
 }
